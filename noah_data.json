@@ -1,0 +1,1097 @@
+[
+  {
+    "name": "גֹּמֶר",
+    "branch": "יפת",
+    "parent": "יפת",
+    "verse": "2",
+    "confidence": "בינוני",
+    "locations": [
+      {
+        "label": "אנטוליה הצפונית / הקימרים",
+        "lon": 36.0,
+        "lat": 41.0,
+        "primary": true
+      }
+    ],
+    "note": "זיהוי עם הקימרים; תחום נייד"
+  },
+  {
+    "name": "מָגוֹג",
+    "branch": "יפת",
+    "parent": "יפת",
+    "verse": "2",
+    "confidence": "נמוך",
+    "locations": [
+      {
+        "label": "צפון הים השחור",
+        "lon": 38.0,
+        "lat": 46.0,
+        "primary": true
+      }
+    ],
+    "note": "זיהוי מסופק; אין אתר מוסכם"
+  },
+  {
+    "name": "מָדַי",
+    "branch": "יפת",
+    "parent": "יפת",
+    "verse": "2",
+    "confidence": "גבוה",
+    "locations": [
+      {
+        "label": "מדי, צפון־מערב איראן",
+        "lon": 48.0,
+        "lat": 35.0,
+        "primary": true
+      }
+    ],
+    "note": ""
+  },
+  {
+    "name": "יָוָן",
+    "branch": "יפת",
+    "parent": "יפת",
+    "verse": "2",
+    "confidence": "גבוה",
+    "locations": [
+      {
+        "label": "יוניה, מערב אנטוליה",
+        "lon": 27.0,
+        "lat": 38.0,
+        "primary": true
+      }
+    ],
+    "note": ""
+  },
+  {
+    "name": "תֻבָל",
+    "branch": "יפת",
+    "parent": "יפת",
+    "verse": "2",
+    "confidence": "בינוני",
+    "locations": [
+      {
+        "label": "טבאל, מרכז אנטוליה",
+        "lon": 35.0,
+        "lat": 38.0,
+        "primary": true
+      }
+    ],
+    "note": ""
+  },
+  {
+    "name": "מֶשֶׁךְ",
+    "branch": "יפת",
+    "parent": "יפת",
+    "verse": "2",
+    "confidence": "בינוני",
+    "locations": [
+      {
+        "label": "מושכי, מרכז־מזרח אנטוליה",
+        "lon": 38.0,
+        "lat": 39.0,
+        "primary": true
+      }
+    ],
+    "note": ""
+  },
+  {
+    "name": "תִּירָס",
+    "branch": "יפת",
+    "parent": "יפת",
+    "verse": "2",
+    "confidence": "נמוך",
+    "locations": [
+      {
+        "label": "תראקיה",
+        "lon": 26.0,
+        "lat": 42.0,
+        "primary": true
+      }
+    ],
+    "note": "זיהוי מסורתי, לא ודאי"
+  },
+  {
+    "name": "אַשְׁכְּנַז",
+    "branch": "יפת",
+    "parent": "גמר",
+    "verse": "3",
+    "confidence": "בינוני",
+    "locations": [
+      {
+        "label": "אזור ארמניה / סקיתים",
+        "lon": 44.0,
+        "lat": 40.0,
+        "primary": true
+      }
+    ],
+    "note": "לא גרמניה של ימי הביניים"
+  },
+  {
+    "name": "רִיפַת",
+    "branch": "יפת",
+    "parent": "גמר",
+    "verse": "3",
+    "confidence": "נמוך",
+    "locations": [
+      {
+        "label": "פפלגוניה, צפון אנטוליה",
+        "lon": 33.0,
+        "lat": 41.0,
+        "primary": true
+      }
+    ],
+    "note": "הצעה בלבד"
+  },
+  {
+    "name": "תֹּגַרְמָה",
+    "branch": "יפת",
+    "parent": "גמר",
+    "verse": "3",
+    "confidence": "בינוני",
+    "locations": [
+      {
+        "label": "טיל־גרימו / מזרח אנטוליה",
+        "lon": 39.0,
+        "lat": 39.0,
+        "primary": true
+      }
+    ],
+    "note": ""
+  },
+  {
+    "name": "אֱלִישָׁה",
+    "branch": "יפת",
+    "parent": "יון",
+    "verse": "4",
+    "confidence": "נמוך",
+    "locations": [
+      {
+        "label": "קפריסין",
+        "lon": 33.0,
+        "lat": 35.0,
+        "primary": true
+      },
+      {
+        "label": "אליס ביוון",
+        "lon": 22.0,
+        "lat": 38.0,
+        "primary": false
+      }
+    ],
+    "note": "שני זיהויים מוצעים"
+  },
+  {
+    "name": "תַּרְשִׁישׁ",
+    "branch": "יפת",
+    "parent": "יון",
+    "verse": "4",
+    "confidence": "נמוך",
+    "locations": [
+      {
+        "label": "טרטסוס, דרום ספרד",
+        "lon": -6.3,
+        "lat": 37.0,
+        "primary": true
+      },
+      {
+        "label": "סרדיניה",
+        "lon": 9.0,
+        "lat": 40.0,
+        "primary": false
+      },
+      {
+        "label": "טרסוס, קיליקיה",
+        "lon": 34.9,
+        "lat": 37.0,
+        "primary": false
+      }
+    ],
+    "note": "שנוי במחלוקת"
+  },
+  {
+    "name": "כִּתִּים",
+    "branch": "יפת",
+    "parent": "יון",
+    "verse": "4",
+    "confidence": "גבוה",
+    "locations": [
+      {
+        "label": "כִּתִּיוֹן, קפריסין",
+        "lon": 33.6,
+        "lat": 34.9,
+        "primary": true
+      }
+    ],
+    "note": ""
+  },
+  {
+    "name": "דֹּדָנִים",
+    "branch": "יפת",
+    "parent": "יון",
+    "verse": "4",
+    "confidence": "נמוך",
+    "locations": [
+      {
+        "label": "דודונה, יוון",
+        "lon": 20.8,
+        "lat": 39.5,
+        "primary": true
+      },
+      {
+        "label": "רודוס (נוסח רודנים)",
+        "lon": 28.0,
+        "lat": 36.2,
+        "primary": false
+      }
+    ],
+    "note": "בדברי הימים א א:ז: רודנים"
+  },
+  {
+    "name": "כּוּשׁ",
+    "branch": "חם",
+    "parent": "חם",
+    "verse": "6",
+    "confidence": "גבוה",
+    "locations": [
+      {
+        "label": "נוביה, סודאן",
+        "lon": 32.0,
+        "lat": 18.0,
+        "primary": true
+      },
+      {
+        "label": "קרן אפריקה",
+        "lon": 40.0,
+        "lat": 9.0,
+        "primary": false
+      }
+    ],
+    "note": "תחום גאוגרפי רחב"
+  },
+  {
+    "name": "מִצְרַיִם",
+    "branch": "חם",
+    "parent": "חם",
+    "verse": "6",
+    "confidence": "גבוה",
+    "locations": [
+      {
+        "label": "מצרים",
+        "lon": 30.0,
+        "lat": 27.0,
+        "primary": true
+      }
+    ],
+    "note": ""
+  },
+  {
+    "name": "פּוּט",
+    "branch": "חם",
+    "parent": "חם",
+    "verse": "6",
+    "confidence": "נמוך",
+    "locations": [
+      {
+        "label": "לוב",
+        "lon": 20.0,
+        "lat": 27.0,
+        "primary": true
+      },
+      {
+        "label": "פונט, קרן אפריקה",
+        "lon": 42.0,
+        "lat": 12.0,
+        "primary": false
+      }
+    ],
+    "note": "שתי הצעות שונות"
+  },
+  {
+    "name": "כְּנַעַן",
+    "branch": "חם",
+    "parent": "חם",
+    "verse": "6",
+    "confidence": "גבוה",
+    "locations": [
+      {
+        "label": "כנען / הלבנט הדרומי",
+        "lon": 35.0,
+        "lat": 32.0,
+        "primary": true
+      }
+    ],
+    "note": ""
+  },
+  {
+    "name": "סְבָא",
+    "branch": "חם",
+    "parent": "כוש",
+    "verse": "7",
+    "confidence": "נמוך",
+    "locations": [
+      {
+        "label": "אזור מרואה, סודאן",
+        "lon": 33.7,
+        "lat": 16.9,
+        "primary": true
+      },
+      {
+        "label": "קרן אפריקה",
+        "lon": 40.0,
+        "lat": 12.0,
+        "primary": false
+      }
+    ],
+    "note": "אין ודאות בזהות"
+  },
+  {
+    "name": "חֲוִילָה",
+    "branch": "חם",
+    "parent": "כוש",
+    "verse": "7",
+    "confidence": "נמוך",
+    "locations": [
+      {
+        "label": "חצי האי ערב, צפון־מערב",
+        "lon": 38.0,
+        "lat": 27.0,
+        "primary": true
+      },
+      {
+        "label": "דרום חצי האי ערב",
+        "lon": 44.0,
+        "lat": 17.0,
+        "primary": false
+      }
+    ],
+    "note": "מופיע גם בבני יקטן"
+  },
+  {
+    "name": "סַבְתָּה",
+    "branch": "חם",
+    "parent": "כוש",
+    "verse": "7",
+    "confidence": "נמוך",
+    "locations": [
+      {
+        "label": "דרום חצי האי ערב",
+        "lon": 46.0,
+        "lat": 16.0,
+        "primary": true
+      }
+    ],
+    "note": "הצעה גאוגרפית כללית בלבד"
+  },
+  {
+    "name": "רַעְמָה",
+    "branch": "חם",
+    "parent": "כוש",
+    "verse": "7",
+    "confidence": "נמוך",
+    "locations": [
+      {
+        "label": "דרום־מערב חצי האי ערב",
+        "lon": 43.0,
+        "lat": 16.0,
+        "primary": true
+      }
+    ],
+    "note": ""
+  },
+  {
+    "name": "סַבְתְּכָא",
+    "branch": "חם",
+    "parent": "כוש",
+    "verse": "7",
+    "confidence": "נמוך",
+    "locations": [
+      {
+        "label": "דרום חצי האי ערב",
+        "lon": 49.0,
+        "lat": 15.0,
+        "primary": true
+      }
+    ],
+    "note": "הצעה גאוגרפית כללית בלבד"
+  },
+  {
+    "name": "שְׁבָא",
+    "branch": "חם",
+    "parent": "רעמה",
+    "verse": "7",
+    "confidence": "בינוני",
+    "locations": [
+      {
+        "label": "סבא, תימן",
+        "lon": 44.2,
+        "lat": 15.4,
+        "primary": true
+      }
+    ],
+    "note": "מופיע גם בבני יקטן"
+  },
+  {
+    "name": "דְּדָן",
+    "branch": "חם",
+    "parent": "רעמה",
+    "verse": "7",
+    "confidence": "בינוני",
+    "locations": [
+      {
+        "label": "דדן / אל־עולא, צפון־מערב ערב",
+        "lon": 37.9,
+        "lat": 26.6,
+        "primary": true
+      }
+    ],
+    "note": ""
+  },
+  {
+    "name": "נִמְרֹד",
+    "branch": "חם",
+    "parent": "כוש",
+    "verse": "8–12",
+    "confidence": "בינוני",
+    "locations": [
+      {
+        "label": "שנער / דרום מסופוטמיה",
+        "lon": 44.5,
+        "lat": 32.5,
+        "primary": true
+      }
+    ],
+    "note": "פס׳ י–יב מתארים ממלכה וערים, לא צאצאים נוספים"
+  },
+  {
+    "name": "לוּדִים",
+    "branch": "חם",
+    "parent": "מצרים",
+    "verse": "13",
+    "confidence": "נמוך",
+    "locations": [
+      {
+        "label": "צפון אפריקה / מצרים",
+        "lon": 28.0,
+        "lat": 30.0,
+        "primary": true
+      }
+    ],
+    "note": "אין לזהות בהכרח עם לוד בן שם"
+  },
+  {
+    "name": "עֲנָמִים",
+    "branch": "חם",
+    "parent": "מצרים",
+    "verse": "13",
+    "confidence": "נמוך",
+    "locations": [],
+    "note": "זיהוי גאוגרפי לא מבוסס"
+  },
+  {
+    "name": "לְהָבִים",
+    "branch": "חם",
+    "parent": "מצרים",
+    "verse": "13",
+    "confidence": "נמוך",
+    "locations": [
+      {
+        "label": "לוב / צפון אפריקה",
+        "lon": 23.0,
+        "lat": 31.0,
+        "primary": true
+      }
+    ],
+    "note": "זיהוי משוער"
+  },
+  {
+    "name": "נַפְתֻּחִים",
+    "branch": "חם",
+    "parent": "מצרים",
+    "verse": "13",
+    "confidence": "נמוך",
+    "locations": [
+      {
+        "label": "דלתת הנילוס",
+        "lon": 31.0,
+        "lat": 31.0,
+        "primary": true
+      }
+    ],
+    "note": "זיהוי משוער"
+  },
+  {
+    "name": "פַּתְרֻסִים",
+    "branch": "חם",
+    "parent": "מצרים",
+    "verse": "14",
+    "confidence": "בינוני",
+    "locations": [
+      {
+        "label": "פתרוס / מצרים העליונה",
+        "lon": 32.0,
+        "lat": 25.0,
+        "primary": true
+      }
+    ],
+    "note": ""
+  },
+  {
+    "name": "כַּסְלֻחִים",
+    "branch": "חם",
+    "parent": "מצרים",
+    "verse": "14",
+    "confidence": "נמוך",
+    "locations": [],
+    "note": "מוצא הפלשתים בנוסח הפרק; מקום הקבוצה אינו ודאי"
+  },
+  {
+    "name": "פְּלִשְׁתִּים",
+    "branch": "חם",
+    "parent": "כסלחים",
+    "verse": "14",
+    "confidence": "גבוה",
+    "locations": [
+      {
+        "label": "מישור החוף הדרומי, פלשת",
+        "lon": 34.5,
+        "lat": 31.6,
+        "primary": true
+      }
+    ],
+    "note": "הטקסט אומר ״אשר יצאו משם״; אינם בן שנמנה כיתר הרשימה"
+  },
+  {
+    "name": "כַּפְתֹּרִים",
+    "branch": "חם",
+    "parent": "מצרים",
+    "verse": "14",
+    "confidence": "בינוני",
+    "locations": [
+      {
+        "label": "כרתים / כפתור",
+        "lon": 25.0,
+        "lat": 35.0,
+        "primary": true
+      },
+      {
+        "label": "חוף אנטוליה הדרומי",
+        "lon": 30.0,
+        "lat": 37.0,
+        "primary": false
+      }
+    ],
+    "note": "הזיהוי עם כרתים מקובל אך אינו מוכרע"
+  },
+  {
+    "name": "צִידֹן",
+    "branch": "חם",
+    "parent": "כנען",
+    "verse": "15",
+    "confidence": "גבוה",
+    "locations": [
+      {
+        "label": "צידון, לבנון",
+        "lon": 35.4,
+        "lat": 33.6,
+        "primary": true
+      }
+    ],
+    "note": ""
+  },
+  {
+    "name": "חֵת",
+    "branch": "חם",
+    "parent": "כנען",
+    "verse": "15",
+    "confidence": "בינוני",
+    "locations": [
+      {
+        "label": "אנטוליה / ארץ החתים",
+        "lon": 35.0,
+        "lat": 39.0,
+        "primary": true
+      },
+      {
+        "label": "חִתים בדרום הלבנט",
+        "lon": 35.0,
+        "lat": 32.0,
+        "primary": false
+      }
+    ],
+    "note": "ייתכן שהשם מתייחס לקבוצות שונות"
+  },
+  {
+    "name": "הַיְבוּסִי",
+    "branch": "חם",
+    "parent": "כנען",
+    "verse": "16",
+    "confidence": "גבוה",
+    "locations": [
+      {
+        "label": "ירושלים / יבוס",
+        "lon": 35.2,
+        "lat": 31.8,
+        "primary": true
+      }
+    ],
+    "note": ""
+  },
+  {
+    "name": "הָאֱמֹרִי",
+    "branch": "חם",
+    "parent": "כנען",
+    "verse": "16",
+    "confidence": "בינוני",
+    "locations": [
+      {
+        "label": "סוריה והלבנט",
+        "lon": 37.0,
+        "lat": 35.0,
+        "primary": true
+      }
+    ],
+    "note": "קבוצה בעלת תפוצה רחבה"
+  },
+  {
+    "name": "הַגִּרְגָּשִׁי",
+    "branch": "חם",
+    "parent": "כנען",
+    "verse": "16",
+    "confidence": "נמוך",
+    "locations": [],
+    "note": "מיקומם המדויק אינו ידוע"
+  },
+  {
+    "name": "הַחִוִּי",
+    "branch": "חם",
+    "parent": "כנען",
+    "verse": "17",
+    "confidence": "נמוך",
+    "locations": [
+      {
+        "label": "צפון כנען / לבנון",
+        "lon": 35.7,
+        "lat": 34.0,
+        "primary": true
+      }
+    ],
+    "note": "השערה בלבד"
+  },
+  {
+    "name": "הָעַרְקִי",
+    "branch": "חם",
+    "parent": "כנען",
+    "verse": "17",
+    "confidence": "גבוה",
+    "locations": [
+      {
+        "label": "ערקה, צפון לבנון",
+        "lon": 36.0,
+        "lat": 34.5,
+        "primary": true
+      }
+    ],
+    "note": ""
+  },
+  {
+    "name": "הַסִּינִי",
+    "branch": "חם",
+    "parent": "כנען",
+    "verse": "17",
+    "confidence": "בינוני",
+    "locations": [
+      {
+        "label": "סִין, צפון לבנון",
+        "lon": 36.1,
+        "lat": 34.3,
+        "primary": true
+      }
+    ],
+    "note": "לא סין במזרח אסיה"
+  },
+  {
+    "name": "הָאַרְוָדִי",
+    "branch": "חם",
+    "parent": "כנען",
+    "verse": "18",
+    "confidence": "גבוה",
+    "locations": [
+      {
+        "label": "ארווד, חוף סוריה",
+        "lon": 35.9,
+        "lat": 34.9,
+        "primary": true
+      }
+    ],
+    "note": ""
+  },
+  {
+    "name": "הַצְּמָרִי",
+    "branch": "חם",
+    "parent": "כנען",
+    "verse": "18",
+    "confidence": "בינוני",
+    "locations": [
+      {
+        "label": "צומר / חוף סוריה",
+        "lon": 35.9,
+        "lat": 34.6,
+        "primary": true
+      }
+    ],
+    "note": ""
+  },
+  {
+    "name": "הַחֲמָתִי",
+    "branch": "חם",
+    "parent": "כנען",
+    "verse": "18",
+    "confidence": "גבוה",
+    "locations": [
+      {
+        "label": "חמת, סוריה",
+        "lon": 36.75,
+        "lat": 35.1,
+        "primary": true
+      }
+    ],
+    "note": ""
+  },
+  {
+    "name": "עֵילָם",
+    "branch": "שם",
+    "parent": "שם",
+    "verse": "22",
+    "confidence": "גבוה",
+    "locations": [
+      {
+        "label": "עילם / דרום־מערב איראן",
+        "lon": 48.5,
+        "lat": 31.5,
+        "primary": true
+      }
+    ],
+    "note": ""
+  },
+  {
+    "name": "אַשּׁוּר",
+    "branch": "שם",
+    "parent": "שם",
+    "verse": "22",
+    "confidence": "גבוה",
+    "locations": [
+      {
+        "label": "אשור / צפון מסופוטמיה",
+        "lon": 43.3,
+        "lat": 35.5,
+        "primary": true
+      }
+    ],
+    "note": "בפס׳ יא מופיע גם ״אשור״; פירוש התחביר שנוי במחלוקת"
+  },
+  {
+    "name": "אַרְפַּכְשַׁד",
+    "branch": "שם",
+    "parent": "שם",
+    "verse": "22",
+    "confidence": "נמוך",
+    "locations": [
+      {
+        "label": "צפון מסופוטמיה",
+        "lon": 42.0,
+        "lat": 36.0,
+        "primary": true
+      }
+    ],
+    "note": "אין זיהוי מוסכם; הנקודה סכמטית בלבד"
+  },
+  {
+    "name": "לוּד",
+    "branch": "שם",
+    "parent": "שם",
+    "verse": "22",
+    "confidence": "בינוני",
+    "locations": [
+      {
+        "label": "לידיה / מערב אנטוליה",
+        "lon": 28.0,
+        "lat": 38.5,
+        "primary": true
+      }
+    ],
+    "note": "לא זהה בהכרח ללודים בני מצרים"
+  },
+  {
+    "name": "אֲרָם",
+    "branch": "שם",
+    "parent": "שם",
+    "verse": "22",
+    "confidence": "גבוה",
+    "locations": [
+      {
+        "label": "סוריה / ארם",
+        "lon": 37.0,
+        "lat": 36.0,
+        "primary": true
+      }
+    ],
+    "note": ""
+  },
+  {
+    "name": "עוּץ",
+    "branch": "שם",
+    "parent": "ארם",
+    "verse": "23",
+    "confidence": "נמוך",
+    "locations": [
+      {
+        "label": "צפון־מערב ערב",
+        "lon": 38.0,
+        "lat": 29.0,
+        "primary": true
+      },
+      {
+        "label": "אזור אדום",
+        "lon": 35.0,
+        "lat": 30.0,
+        "primary": false
+      }
+    ],
+    "note": "זיהוי שנוי במחלוקת"
+  },
+  {
+    "name": "חוּל",
+    "branch": "שם",
+    "parent": "ארם",
+    "verse": "23",
+    "confidence": "נמוך",
+    "locations": [],
+    "note": "אין זיהוי מבוסס"
+  },
+  {
+    "name": "גֶּתֶר",
+    "branch": "שם",
+    "parent": "ארם",
+    "verse": "23",
+    "confidence": "נמוך",
+    "locations": [],
+    "note": "אין זיהוי מבוסס"
+  },
+  {
+    "name": "מַשׁ",
+    "branch": "שם",
+    "parent": "ארם",
+    "verse": "23",
+    "confidence": "נמוך",
+    "locations": [],
+    "note": "אין זיהוי מבוסס; בדברי הימים: משך"
+  },
+  {
+    "name": "שֶׁלַח",
+    "branch": "שם",
+    "parent": "ארפכשד",
+    "verse": "24",
+    "confidence": "נמוך",
+    "locations": [],
+    "note": "שם בשרשרת יוחסין, ללא אתר מזוהה"
+  },
+  {
+    "name": "עֵבֶר",
+    "branch": "שם",
+    "parent": "שלח",
+    "verse": "24",
+    "confidence": "נמוך",
+    "locations": [],
+    "note": "אין לקבוע מקום על סמך השם בלבד"
+  },
+  {
+    "name": "פֶּלֶג",
+    "branch": "שם",
+    "parent": "עבר",
+    "verse": "25",
+    "confidence": "נמוך",
+    "locations": [],
+    "note": "אין מקום מוסכם; ״נפלגה הארץ״ אינו קואורדינטה"
+  },
+  {
+    "name": "יָקְטָן",
+    "branch": "שם",
+    "parent": "עבר",
+    "verse": "25",
+    "confidence": "בינוני",
+    "locations": [
+      {
+        "label": "דרום חצי האי ערב (תחום בני יקטן)",
+        "lon": 45.0,
+        "lat": 17.0,
+        "primary": true
+      }
+    ],
+    "note": "תחום משוער לבניו, לא יישוב מזוהה"
+  },
+  {
+    "name": "אַלְמוֹדָד",
+    "branch": "שם",
+    "parent": "יקטן",
+    "verse": "26",
+    "confidence": "נמוך",
+    "locations": [],
+    "note": "אין זיהוי מבוסס"
+  },
+  {
+    "name": "שָׁלֶף",
+    "branch": "שם",
+    "parent": "יקטן",
+    "verse": "26",
+    "confidence": "נמוך",
+    "locations": [],
+    "note": "אין זיהוי מבוסס"
+  },
+  {
+    "name": "חֲצַרְמָוֶת",
+    "branch": "שם",
+    "parent": "יקטן",
+    "verse": "26",
+    "confidence": "גבוה",
+    "locations": [
+      {
+        "label": "חצרמוות / חַדְרַמַוְת, תימן",
+        "lon": 49.0,
+        "lat": 16.0,
+        "primary": true
+      }
+    ],
+    "note": ""
+  },
+  {
+    "name": "יָרַח",
+    "branch": "שם",
+    "parent": "יקטן",
+    "verse": "26",
+    "confidence": "נמוך",
+    "locations": [],
+    "note": "אין זיהוי מבוסס"
+  },
+  {
+    "name": "הֲדוֹרָם",
+    "branch": "שם",
+    "parent": "יקטן",
+    "verse": "27",
+    "confidence": "נמוך",
+    "locations": [],
+    "note": "אין זיהוי מבוסס"
+  },
+  {
+    "name": "אוּזָל",
+    "branch": "שם",
+    "parent": "יקטן",
+    "verse": "27",
+    "confidence": "בינוני",
+    "locations": [
+      {
+        "label": "אוזל / צנעא, תימן",
+        "lon": 44.2,
+        "lat": 15.35,
+        "primary": true
+      }
+    ],
+    "note": "זיהוי מסורתי"
+  },
+  {
+    "name": "דִּקְלָה",
+    "branch": "שם",
+    "parent": "יקטן",
+    "verse": "27",
+    "confidence": "נמוך",
+    "locations": [],
+    "note": "אין זיהוי מבוסס"
+  },
+  {
+    "name": "עוֹבָל",
+    "branch": "שם",
+    "parent": "יקטן",
+    "verse": "28",
+    "confidence": "נמוך",
+    "locations": [],
+    "note": "אין זיהוי מבוסס"
+  },
+  {
+    "name": "אֲבִימָאֵל",
+    "branch": "שם",
+    "parent": "יקטן",
+    "verse": "28",
+    "confidence": "נמוך",
+    "locations": [],
+    "note": "אין זיהוי מבוסס"
+  },
+  {
+    "name": "שְׁבָא",
+    "branch": "שם",
+    "parent": "יקטן",
+    "verse": "28",
+    "confidence": "בינוני",
+    "locations": [
+      {
+        "label": "סבא / תימן",
+        "lon": 44.5,
+        "lat": 15.5,
+        "primary": true
+      }
+    ],
+    "note": "אותו שם מופיע גם בין בני רעמה"
+  },
+  {
+    "name": "אוֹפִיר",
+    "branch": "שם",
+    "parent": "יקטן",
+    "verse": "29",
+    "confidence": "נמוך",
+    "locations": [
+      {
+        "label": "דרום חצי האי ערב",
+        "lon": 48.0,
+        "lat": 14.0,
+        "primary": true
+      },
+      {
+        "label": "קרן אפריקה",
+        "lon": 42.0,
+        "lat": 11.0,
+        "primary": false
+      },
+      {
+        "label": "חוף הודו (מחוץ לתחום)",
+        "lon": 73.0,
+        "lat": 16.0,
+        "primary": false
+      }
+    ],
+    "note": "האתר אינו ידוע; החלופות הן השערות בלבד"
+  },
+  {
+    "name": "חֲוִילָה",
+    "branch": "שם",
+    "parent": "יקטן",
+    "verse": "29",
+    "confidence": "נמוך",
+    "locations": [
+      {
+        "label": "חצי האי ערב",
+        "lon": 45.0,
+        "lat": 23.0,
+        "primary": true
+      }
+    ],
+    "note": "מופיע גם בבני כוש"
+  },
+  {
+    "name": "יוֹבָב",
+    "branch": "שם",
+    "parent": "יקטן",
+    "verse": "29",
+    "confidence": "נמוך",
+    "locations": [],
+    "note": "אין זיהוי מבוסס"
+  }
+]
